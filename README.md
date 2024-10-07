@@ -1,21 +1,22 @@
-# Cricket.Dashbaord
-# T20 Cricket World Cup Dashboard
+# Energy Consumption Dashboard
 
-Welcome to the **T20 Cricket World Cup Dashboard** project! This college project showcases a Power BI dashboard that visualizes T20 cricket match data scraped from the ESPN Cricinfo website.
-website link=https://www.espncricinfo.com/
+Welcome to the **Energy Consumption Dashboard** project! This college project features a Power BI dashboard that visualizes energy consumption data sourced through web scraping.
+
 ## Features
-- Interactive visualizations of match statistics and player performances.
-- Filters to analyze data by teams, players, and match dates.
-- Key metrics such as runs scored, wickets taken, and batting averages.
+- Interactive visualizations of energy usage trends over time.
+- Filters for analyzing data by region, source, and consumption type.
+- Key metrics such as total consumption, peak usage hours, and cost analysis.
 
 ## Getting Started
-1. Clone this repository and run the file.
-2. Open the `T20_Cricket_World_Cup_Dashboard.pbix` file in Power BI.
+1. Clone this repository and run the web scraping script to collect data.
+2. Open the `Energy_Consumption_Dashboard.pbix` file in Power BI.
 
 ## Contributions
-Contributions are welcome to improve the dashboard and add new features!
+Contributions are welcome to enhance the dashboard and introduce new features!
 
 ## License
 This project is licensed under the MIT License.
+
+For questions, contact [your.email@example.com](mailto:your.email@example.com).
 
 For questions, contact [postureshirley@gmail.com]
