@@ -17,6 +17,6 @@ Contributions are welcome to enhance the dashboard and introduce new features!
 ## License
 This project is licensed under the MIT License.
 
-For questions, contact [your.email@example.com](mailto:your.email@example.com).
+
 
 For questions, contact [postureshirley@gmail.com]
